@@ -1,13 +1,19 @@
 {
-  "display": "standalone",
-  "scope": "/",
-  "start_url": "/",
-  "name": "AList",
-  "icons": [
-    {
-      "src": "https://jsd.nn.ci/gh/alist-org/logo@main/logo.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    }
-  ]
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/",
+    "name": "kaialist下载站",
+    "short_name": "kaialist",
+    "icons": [
+        {
+            "src": "https://img.fastmirror.net/s/2024/09/15/66e648b0be23c.jpg",
+            "sizes": "32x32",
+            "type": "image/jpeg"
+        },
+        {
+            "src": "https://img.fastmirror.net/s/2024/09/15/66e64c0bba748.png",
+            "sizes": "500x500",
+            "type": "image/png"
+        }
+    ]
 }
